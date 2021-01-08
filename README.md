@@ -104,7 +104,7 @@ Create another component to display a selected movie. Some hints:
     - You need to pass an id of a selected movie from the App to a new component.
     - You need to make another fetch in a new component with that id so you will fetch data for a specific movie.
     - (there are more ways of doing it - be creative think out of the box)
-17. You now have all the must-have features. Congratulations! If you have time left, be sure to take a look at the nice-to-have features. Here are some suggestions as well:
+17. Now you have all the must-have features. Congratulations! If you have time left, be sure to take a look at the nice-to-have features. Here are some suggestions as well:
     - Make it looks good. Check [Material-UI](https://samueleresca.net/solid-principles-using-typescript/) for styling;
     - For the Favorites make another component - you should have the same logic as for open a specific movie, but instead of open, add to the array, use <code>useState</code> and remember to do it in a Parent component.
     - To keep movie on refresh use <code>useEffect</code> and local storage for this.
@@ -113,5 +113,5 @@ Create another component to display a selected movie. Some hints:
 
 
 
-![YEAH!](https://media.giphy.com/media/KZwhBE8csqcl2Grept/giphy.gif)
+![YEAH!](https://media.giphy.com/media/KJCsv8KcpwHjG/giphy.gif)
 
